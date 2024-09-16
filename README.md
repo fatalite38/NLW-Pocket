@@ -89,6 +89,6 @@ As seguintes ferramentas foram usadas neste projeto:
 
 &#xa0;
 
-_**Feito por <a href="https://github.com/fatalite38" target="_blank">Luiz Fernando</a>**_  👨‍🚀
+_**Desenvolvido por: <a href="https://github.com/fatalite38" target="_blank">Luiz Fernando</a>**_  👨‍🚀
 
-<a href="#top">Back to top</a>
+<a href="#top">Voltar</a>
