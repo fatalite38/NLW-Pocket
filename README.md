@@ -84,7 +84,7 @@ As seguintes ferramentas foram usadas neste projeto:
 | [Zod](https://www.npmjs.com/package/zod)      | `npm i zod`                                                     |
 
 
-## :memo: Licença ##
+## Licença 
  MIT License. Para mais detalhes veja em [LICENSE](./LICENSE).
 
 &#xa0;
