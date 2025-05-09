@@ -4,7 +4,7 @@
 Uma aplicação para gerenciamento de metas gamificada, onde o usuário cadastra metas semanais e pode controlar em tempo real a pontuação.
 
 ## Back-End
-- Neste módulo, foi desenvolvido toda API da nossa aplicação, contendo configurações de rotas e use cases com todas as funcionalidades. 
+- Neste módulo, foi desenvolvido toda a API da nossa aplicação, contendo configurações de rotas e use cases com todas as funcionalidades. 
 - Desenvolvimento de uma aplicação back-end em Node.js, aplicação dos conceitos de API REST, utilizando TypeScript, Fastify como framework, integração do DrizzleORM + PostgreSQL, Docker e Zod para validação de dados.
 
 ### Tecnologias no Back-End
